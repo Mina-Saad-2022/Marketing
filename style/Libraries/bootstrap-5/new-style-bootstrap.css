@@ -1,0 +1,27 @@
+/* ! start nav_bar style */
+.bg-light{
+    background-color: transparent !important;
+}
+.container-fluid{
+    background-color: #138ED0 !important;
+    /* padding: 1em; */
+    position: relative;
+    top: -.5em;
+}
+.dropdown-item{
+    padding-left: 1%;
+}
+.dropdown-item:hover{
+    background-color: #138ED0;
+    color: #fff !important;
+}
+.navbar-light .navbar-toggler{
+    color: #fff;
+    background-color: #fff;
+    border: #fff 1px solid;
+}
+/* ! end nav_bar style */
+
+
+
+

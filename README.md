@@ -1,4 +1,4 @@
-# Marketing
+# Marketing project
 
 In this project i use HTML , CSS and javescript
 
